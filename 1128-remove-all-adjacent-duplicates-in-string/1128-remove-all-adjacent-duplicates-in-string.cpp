@@ -3,7 +3,7 @@ public:
     string removeDuplicates(string s) {
         stack<char> st;
 
-        int n = s.size();
+        int n = s.length();
         for(int i=0; i<n;)
         {
             if(st.empty() || st.top() != s[i])
