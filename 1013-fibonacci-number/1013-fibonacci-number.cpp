@@ -1,15 +1,11 @@
 class Solution {
 public:
-    int solve(int n)
-    {
-        //base case
+    int fib(int n) {
+        //edge case
         if(n == 0) return 0;
         if(n == 1) return 1;
 
         //recursive case
-        return solve(n-1) + solve(n-2);
-    }
-    int fib(int n) {
-        return solve(n);
+        return ( fib(n-1) + fib(n-2) );
     }
 };
