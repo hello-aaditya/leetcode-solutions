@@ -20,14 +20,17 @@ public:
 
         while(curr->next != NULL)
         {
+            //case where a critical point (localMaxima or localMinima) is found
             if( (curr->val < prev->val && curr->val < curr->next->val) || (curr->val > prev->val && curr->val > curr->next->val) )
             {
+                //this line will run only once when first critical point will found
                 if(prevCriticalPoint == 0)
                 {
                     firstCriticalPoint = currPos;
                     prevCriticalPoint = currPos;
                 }
 
+                //this line will be run after find the firstCriticalPoint
                 else
                 {
                     //for minDistance
@@ -46,6 +49,7 @@ public:
             return {-1, -1};
         }
 
+        //if minDist is found
         return {minDist, prevCriticalPoint - firstCriticalPoint};
     }
 };
