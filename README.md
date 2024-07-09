@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
 | ------- |
+| [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
