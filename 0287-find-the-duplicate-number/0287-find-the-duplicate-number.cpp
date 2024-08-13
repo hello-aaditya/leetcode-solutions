@@ -1,18 +1,21 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
+        int size = nums.size();
         //edge case
-        if(nums.size() == 1) return -1;
+        if(size == 1) return -1;
 
-        //sort the array
-        sort(nums.begin(), nums.end());
-
-        //check for duplicacy
-        for(int i=1; i<nums.size(); i++)
+        unordered_map<int, int> mp;
+        for(int i=0; i<size; i++)
         {
-            if(nums[i-1] == nums[i])
+            mp[nums[i]]++;
+        }
+
+        for(auto& pair : mp)
+        {
+            if(pair.second > 1)
             {
-                return nums[i];
+                return pair.first;
             }
         }
         return -1;
