@@ -11,9 +11,9 @@ public:
             {
                 return {mp[remaining], i};
             }
+
             mp[nums[i]] = i;
         }
-
         return {};
     }
 };
