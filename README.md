@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
+| [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 ## Stack
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 ## Binary Search
 |  |
 | ------- |
