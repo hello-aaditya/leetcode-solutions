@@ -13,7 +13,7 @@ public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
 
-        //edge case:
+        //the condition where k is greater than size of the vector length:
         while(k>n)
         {
             k = k-n;
