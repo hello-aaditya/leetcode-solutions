@@ -3,7 +3,7 @@ public:
     int minSwaps(string s) {
         int n = s.length();
         stack<char> st;
-        for(char ch : s)
+        for(char &ch : s)
         {
             if(st.empty())
             {
