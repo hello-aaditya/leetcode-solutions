@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Monotonic Stack
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
