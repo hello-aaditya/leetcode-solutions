@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0058-length-of-last-word](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -152,5 +154,6 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
