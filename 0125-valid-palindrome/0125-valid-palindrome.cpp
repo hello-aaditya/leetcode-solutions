@@ -1,25 +1,25 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n = s.length();
-        string small;
-        for(int i=0; i<n; i++)
+
+        string lowerStr = "";
+        for(char c : s)
         {
-            if(isalpha(s[i]))
+            if(isalpha(c))
             {
-                small += tolower(s[i]);
+                lowerStr += tolower(c);
             }
-            else if(isdigit(s[i]))
+            else if(isdigit(c))
             {
-                small += s[i];
+                lowerStr += c;
             }
         }
-        
-        int m = small.length();
-        int i=0, j=m-1;
-        while(i<j)
+
+        int n = lowerStr.length();
+        int i=0, j=n-1;
+        while(i<=j)
         {
-            if(small[i] != small[j])
+            if(lowerStr[i] != lowerStr[j])
             {
                 return false;
             }
@@ -27,6 +27,5 @@ public:
             j--;
         }
         return true;
-
     }
 };
