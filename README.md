@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Recursion
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 ## Sorting
 |  |
 | ------- |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 <!---LeetCode Topics End-->
