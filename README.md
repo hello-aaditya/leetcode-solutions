@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1002-maximum-width-ramp](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Quickselect
