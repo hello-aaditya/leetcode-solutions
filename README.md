@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
 |  |
 | ------- |
