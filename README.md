@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
