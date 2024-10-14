@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
