@@ -10,20 +10,24 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
 |  |
 | ------- |
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
 | ------- |
