@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0988-flip-equivalent-binary-trees](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0988-flip-equivalent-binary-trees](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0988-flip-equivalent-binary-trees](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Math
