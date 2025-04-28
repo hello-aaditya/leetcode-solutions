@@ -10,6 +10,8 @@ public:
 
             // give sum of secondary diagonal
             int col = (size-row)-1;
+
+            // this condition make sure to exclude the mutual element
             if(row!=col)
             {
                 sum+=mat[row][col];
