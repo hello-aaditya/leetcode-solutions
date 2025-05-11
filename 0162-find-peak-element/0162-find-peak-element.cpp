@@ -18,7 +18,7 @@ public:
         {
             // Bitwise trick to compute mid safely without overflow or division
             int mid = (start & end) + ((start ^ end) >> 1);
-            if( (mid-1)!=-1 && (mid+1)!=size && nums[mid]>nums[mid+1] && nums[mid] > nums[mid-1])
+            if(nums[mid]>nums[mid+1] && nums[mid] > nums[mid-1])
             {
                 return mid;
             }
