@@ -10,11 +10,7 @@ class Solution {
         return totalNumber;
     }
     int findNumberOfDigit(int number) {
-        int digit = 0;
-        while(number != 0) {
-            number /= 10;
-            digit++;
-        }
+        int digit = (int)Math.log10(number)+1;
         return digit;
     }
 }
