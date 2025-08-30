@@ -9,7 +9,7 @@ class Solution {
         }
         return totalNumber;
     }
-    static int findNumberOfDigit(int number) {
+    int findNumberOfDigit(int number) {
         int digit = 0;
         while(number != 0) {
             number /= 10;
