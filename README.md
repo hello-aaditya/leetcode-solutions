@@ -297,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
