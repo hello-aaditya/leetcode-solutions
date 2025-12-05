@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hello-aaditya/leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3110-score-of-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/hello-aaditya/leetcode-solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
