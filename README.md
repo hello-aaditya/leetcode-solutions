@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/hello-aaditya/leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3110-score-of-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/3110-score-of-a-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0169-majority-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Sliding Window
 |  |
 | ------- |
