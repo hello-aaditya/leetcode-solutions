@@ -7,10 +7,12 @@ class Solution {
             String currentWord = arr[i];
 
             if(currentWordLength > 2) {
+                //  split the current word into two part- first and second, expample: "leTTer" = 'l' + "leTTer"
                 char first = doCapital(currentWord.charAt(0));
                 String second = doSmall(currentWord);
 
                 arr[i] = first + second.substring(1);
+                
             } else {
                 arr[i] = currentWord.toLowerCase();
             }
