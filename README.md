@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2047-find-a-peak-element-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Bit Manipulation
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
