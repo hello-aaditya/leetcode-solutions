@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
