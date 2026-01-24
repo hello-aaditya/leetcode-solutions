@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
