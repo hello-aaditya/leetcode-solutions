@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
