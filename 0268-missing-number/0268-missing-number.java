@@ -1,24 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
+        /* 
+            Approach: find the sum of all natural number till n+1 and minus the total 
+            sum to each of the elements present inside the array
+         */
+
+         // FIND THE TOTAL SUM TILL size + 1
         int size = nums.length;
-        int start = 0;
 
-        while (start < size) {
-            int correctIndex = nums[start];
+        int totalSum = size * (size + 1) / 2;
 
-            if ((nums[start] < size) && (nums[start] != nums[correctIndex])) {
-                int temp = nums[correctIndex];
-                nums[correctIndex] = nums[start];
-                nums[start] = temp;
-            } else {
-                start++;
-            }
-        }
         for (int i=0; i<size; i++) {
-            if (i != nums[i]) {
-                return i;
-            }
+            totalSum -= nums[i];
         }
-        return size;
+        return totalSum;
+        
     }
 }
