@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## String
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1304-longest-happy-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
