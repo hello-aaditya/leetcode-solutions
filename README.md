@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0724-find-pivot-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
