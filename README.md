@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
