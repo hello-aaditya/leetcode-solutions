@@ -1,14 +1,23 @@
 class Solution {
     public int missingNumber(int[] nums) {
         int size = nums.length;
-
-        // SUM OF n NATURAL NUMBER = n * (n+1) / 2
-
-        int sum = size * (size + 1) / 2;
+        int start = 0;
+        while (start < size) {
+            int correctIndex = nums[start];
+            if ((correctIndex < size) && (nums[correctIndex] != nums[start])) {
+                int temp = nums[correctIndex];
+                nums[correctIndex] = nums[start];
+                nums[start] = temp;
+            } else {
+                start++;
+            }
+        }
 
         for (int i=0; i<size; i++) {
-            sum -= nums[i];
+            if (i != nums[i]) {
+                return i;
+            }
         }
-        return sum;
+        return size;
     }
 }
