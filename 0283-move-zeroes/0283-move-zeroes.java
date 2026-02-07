@@ -1,19 +1,21 @@
 class Solution {
     public void moveZeroes(int[] nums) {
         int size = nums.length;
+        int start = 0;
+        int end = 0;
 
-        int insertionPosition = 0;
-        // FILL NON-ZERO ELEMENTS TO FRONTEND SIDE OF THE ARRAY (nums)
-        for (int i=0; i<size; i++) {
-            if (nums[i] != 0) {
-                nums[insertionPosition] = nums[i];
-                insertionPosition++;
+        while (end < size) {
+            if (nums[end] != 0) {
+                int temp = nums[end];
+                nums[end] = nums[start];
+                nums[start] = temp;
+                start++;
             }
+            end++;
         }
-        // NOW FILL THE ZEROS TO THE END SIDE
-        while (insertionPosition < size) {
-            nums[insertionPosition] = 0;
-            insertionPosition++;
+
+        for (int i=start; i<size; i++) {
+            nums[start] = 0;
         }
     }
 }
