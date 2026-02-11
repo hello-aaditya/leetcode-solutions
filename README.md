@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Tree
