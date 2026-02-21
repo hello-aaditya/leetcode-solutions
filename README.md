@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
