@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
+| [1920-build-array-from-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2645-pass-the-pillow) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
+| [1920-build-array-from-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1991-find-the-middle-index-in-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1991-find-the-middle-index-in-array) |
