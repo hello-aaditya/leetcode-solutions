@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1672-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [2047-find-a-peak-element-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
