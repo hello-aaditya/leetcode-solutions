@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0670-maximum-swap) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1095-find-in-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1256-rank-transform-of-an-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
