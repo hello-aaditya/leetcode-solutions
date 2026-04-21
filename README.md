@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1002-maximum-width-ramp) |
 | [1004-max-consecutive-ones-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
