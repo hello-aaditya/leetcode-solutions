@@ -2,18 +2,15 @@ class Solution {
     public int findNumbers(int[] nums) {
         int size = nums.length;
         
-        int count = 0;
+        int evenCount = 0;
         for (int i=0; i<size; i++) {
-            int digit = countDigit(nums[i]);
+            int current = nums[i];
+            int totalDigit = (current==0) ? 1 : (int)Math.floor(Math.log10(Math.abs(current)) + 1);
 
-            if ( (digit & 1) == 0) {
-                count++;
+            if ( (totalDigit & 1) == 0) {
+                evenCount++;
             }
         }
-        return count;
-    }
-    public static int countDigit(int num) {
-        String len = num + "";
-        return len.length();
+        return evenCount;
     }
 }
