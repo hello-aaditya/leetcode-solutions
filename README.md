@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1672-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1732-find-the-highest-altitude](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [1773-count-items-matching-a-rule](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
