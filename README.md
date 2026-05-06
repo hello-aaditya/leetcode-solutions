@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1773-count-items-matching-a-rule](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1803-average-waiting-time) |
+| [1861-rotating-the-box](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1920-build-array-from-permutation](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1929-concatenation-of-array](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0658-find-k-closest-elements](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1861-rotating-the-box](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1572-matrix-diagonal-sum](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1791-richest-customer-wealth) |
+| [1861-rotating-the-box](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
