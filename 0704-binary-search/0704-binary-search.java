@@ -1,24 +1,24 @@
-// USING RECURSION
-
 class Solution {
     public int search(int[] nums, int target) {
-        int size = nums.length;
-        int answer = bs(nums, target, 0, size-1);
-
+        int start = 0;
+        int end = nums.length - 1;
+        int answer = bs(start, end, nums, target);
         return answer;
     }
+    public static int bs(int start, int end, int[] nums, int target) {
+        int mid = start + (end-start)/2;
 
-    public static int bs(int[] arr, int target, int start, int end) {
         // BASE CONDITION
         if (start > end) {
             return -1;
         }
 
-        int mid = start+(end-start)/2;
-        if (arr[mid] > target) {
-            return bs(arr, target, start, mid-1);
-        } else if (arr[mid] < target) {
-            return bs(arr, target, mid+1, end);
+        if (nums[mid] > target) {
+            end = mid-1;
+            return bs(start, end, nums, target);
+        } else if (nums[mid] < target) {
+            start = mid+1;
+            return bs(start, end, nums, target);
         }
         return mid;
     }
