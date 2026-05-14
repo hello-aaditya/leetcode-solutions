@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0670-maximum-swap](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0670-maximum-swap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1642-water-bottles) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/hello-aaditya/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hello-aaditya/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/hello-aaditya/leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
