@@ -1,52 +1,49 @@
+// SOLVE USING RECURSION
+
 class Solution {
     public int search(int[] nums, int target) {
-        int size = nums.length;
 
-        int pivot = minimumInRotatedSorted(nums);
-        
-        int start = 0;
-        int end = pivot-1;
+        return searchFn(nums, target, 0, nums.length-1);
+    }
 
-        int findKey = binarySearch(nums, target, start, end);
-
-        if (findKey != -1) {
-            return findKey;
-        } else {
-            start = pivot;
-            end = size-1;
-            return binarySearch(nums, target, start, end);
+    public static int searchFn(int[] arr, int target, int start, int end) {
+        // BASE CONDITION
+        if (start > end) {
+            return -1;
         }
 
-    }
-    public static int minimumInRotatedSorted(int[] arr) {
+        int mid = start + (end-start)/2;
 
-        int size = arr.length;
-        int start = 0;
-        int end = size - 1;
+        // ELEMENT FOUND AT MID
+        if (arr[mid] == target) {
+            return mid;
+        }
 
-        while (start < end) {
-            int mid = start + (end - start) / 2;
-
-            if (arr[mid] > arr[end]) {
-                start = mid + 1;
-            } else {
-                end = mid;
+        // IF SEARCH SPACE FROM arr[start] TO arr[mid] IS SORTED
+        if (arr[start] <= arr[mid]) {
+            
+            // CASE-1: arr[start] <= target >= arr[mid]
+            if ((target >= arr[start]) && (target <= arr[mid])) {
+                end = mid-1;
+                return searchFn(arr, target, start, end);
+            }
+            // CASE-2: arr[mid+1] <= target >= arr[end]
+            else {
+                start = mid+1;
+                return searchFn(arr, target, start, end);
             }
         }
-        return end;
-    }
-    public static int binarySearch(int[] arr, int target, int start, int end) {
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-
-            if (arr[mid] == target) {
-                return mid;
-            } else if (arr[mid] > target) {
-                end = mid - 1;
-            } else {
-                start = mid + 1;
-            }
+        // IF SEARCH SPACE FROM arr[start] TO arr[mid] IS NOT SORTED
+        // THEN SEARCH SPACE WILL BE: 
+        // CASE-1: arr[start] <= target >= arr[mid]
+        if ((target >= arr[mid]) && (target <= arr[end])) {
+            start = mid+1;
+            return searchFn(arr, target, start, end);
+        } 
+        // CASE-2: arr[mid+1] <= target >= arr[end]
+        else {
+            end = mid-1;
+            return searchFn(arr, target, start, end);
         }
-        return -1;
     }
 }
